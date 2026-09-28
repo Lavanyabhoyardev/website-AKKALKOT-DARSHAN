@@ -6,7 +6,7 @@ export const foodHighlights = [
     title: "Shri Swami Samarth Mahaprasad",
     marathiTitle: "अन्नछत्र महाप्रसाद",
     tagline: "Sacred, unlimited satvik dining served to thousands with unmatched devotion",
-    image: "https://images.unsplash.com/photo-1610057099443-fde8c4d50f91?auto=format&fit=crop&w=1000&q=80", // Pure Indian thali
+    image: "/assets/images/mahaprasad-food.png", // Authentic Maharashtrian temple food (user-provided)
     location: "Annachhatra Mandal, Mandir Ring Road",
     hours: "11:30 AM – 3:00 PM & 7:30 PM – 10:00 PM",
     pricing: "Free for all pilgrims (Donations welcome)",
